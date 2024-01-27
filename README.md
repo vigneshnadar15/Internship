@@ -21,7 +21,7 @@ This repository contains the solutions to the internship tasks assigned by Oasis
    - Brief description of the task and the approach taken.
 
 5. **Chat Application**
-   - [Link to Chat Application Code](<insert link>)
+   - Link to Chat Application Code
    - [Sever.py](https://github.com/vigneshnadar15/Internship/blob/main/Server.py)
    - [Client.py](https://github.com/vigneshnadar15/Internship/blob/main/Client.py)
    - Please note that both the above mentioned files server.py and client.py has to run simultaneously
