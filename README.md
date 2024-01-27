@@ -34,7 +34,7 @@ This repository contains the solutions to the internship tasks assigned by Oasis
 
 ## Acknowledgments
 
-I would like to express my gratitude to the team at Oasis Infobyte for providing me with this opportunity and for their support throughout the internship.
+I would like to express my gratitude to the team at Oasis Infobyte for providing me with this opportunity.
 
 ## Contact Information
 
